@@ -1,12 +1,12 @@
 
+
+## List: [click here](https://pan.baidu.com/s/1OAQxck0xsWrOIFtUUm0sPg?pwd=xecv)
+
+If you would like to obtain detailed information about the document,
+please send the corresponding DID number along with your full name and cohort to the email address below:
+
+<b>feng.zhang at hainan-biuh.edu.cn</b> 
+
+Please use this subject line: <b>“DID_XXXXX + Your Full Name + DT20XX”</b>.
+
 <br>
-
-### [DID_2025060701](/docs/DID_2025060701)
-
-*Teaching Methodologies for Digital Technologies Program*
-
-<br>
-
-### [DID_2025060702](/docs/DID_2025060702)
-
-*电子信息科学与技术的教学方法*
