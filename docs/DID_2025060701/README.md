@@ -37,6 +37,7 @@ The official HSBI module plan is adopted, with a focus on practical and interact
 
 ### 3.3 Timetable Demo
 The ratio of lectures to practice is determined by the teacher. Below is a demo weekly schedule (unit: teaching hours):
+
 | Week | Actual Contact (AC) | Lecture or Seminar (LS) | Practice or Lab (PL) | Exercise or Revision or Presentation (ERP) | Supervised Self-Study (SSS) |
 |:----:|:-------------------:|:-----------------------:|:--------------------:|:------------------------------------------:|:--------------------------:|
 | 1    | 4                   | 2                       | -                    | -                                          | 2                          |
