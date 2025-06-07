@@ -1,8 +1,8 @@
 
 <br>
 
-- ## DID-01-en [Teaching Methodologies for Digital Technologies Program](/docs/TeachingStyle_en)
+- ## DID_2025060701 [Teaching Methodologies for Digital Technologies Program](/docs/TeachingStyle_en)
 
 <br>
 
-- ## DID-01-cn [电子信息科学与技术的教学方法](/docs/TeachingStyle_cn)
+- ## DID_2025060702 [电子信息科学与技术的教学方法](/docs/TeachingStyle_cn)
